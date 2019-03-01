@@ -1,9 +1,1 @@
-# misc
-
-#ELK + Logstash + Kibana + SQL Server
-  Mecanismo de indexação de dados.
-  Criação de uma camada de dados indexados para aplicações de analytics consumirem via API, portal, Tableau ..
-
-https://tylerschmidtke.com/post/logstash-sql-to-elasticsearch/
-
-https://codeshare.co.uk/blog/how-to-copy-sql-server-data-to-elasticsearch-using-logstash/
+2121146567917370_2284430448255647?fields=full_picture,type,parent_id,from,admin_creator,actions,place
